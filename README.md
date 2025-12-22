@@ -4,7 +4,7 @@
 ![Role](https://img.shields.io/badge/Role-Red%20Team%20Leader-red)
 
 # Hello, I'm Shiv4x6c!
-## Infrastructure Penetration Tester, Red Team Leader, AI Security Researcher, Founder CPH:SEC
+## Infrastructure Penetration Tester & Founder CPH:SEC
 Welcome to my GitHub profile! As the founder of CPH:SEC, I am deeply involved in cybersecurity and AI security research.
 ### 📚 Author & Creator
 - **[AI LLM Red Team Handbook](https://github.com/Shiva108/ai-llm-red-team-handbook)** - Comprehensive guide to red teaming AI and Large Language Model systems
