@@ -9,11 +9,6 @@
 
 Welcome to my GitHub profile! I am deeply involved in advancing cybersecurity practices, with a strong focus on traditional penetration testing and cutting-edge **AI/LLM security research**.
 
-<!-- Add your links below! -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
-[![Website](https://img.shields.io/badge/Website-CPH%3ASEC-green?style=flat-square&logo=google-chrome)](https://your-website.com)
-
 </div>
 
 ---
